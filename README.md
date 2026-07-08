@@ -1,2 +1,0 @@
-# Carga de Choque
-Zapcharge
